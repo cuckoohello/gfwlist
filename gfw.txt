@@ -168,3 +168,4 @@ ift.tt
 slideshare.net
 golang.org
 community-cdn-digitalocean-com.global.ssl.fastly.net
+disqus.com
